@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Jakey794/Jakey794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jacob, a machine learning engineer based in Toronto.
 
-Here are some ideas to get you started:
+I work primarily in machine learning and software engineering, with a strong focus on **financial time-series modeling**, **AI-driven systems**, and **end-to-end ML projects**. Most of my work is done using Python and PyTorch, with an emphasis on understanding systems deeply.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub serves as a portfolio of **full ML / SWE projects**, financial AI experiments, group ML contributions, and side projects. Everything here is built intentionally
+
+---
+
+## Tools & Tech
+
+- **Python**, **PyTorch**
+- C (for performance-critical components)
+- Machine Learning & Financial Time-Series Modeling
+- End-to-end ML pipelines (research → implementation → evaluation)
+
+---
+
+## Areas of Focus
+
+- Financial AI & quantitative modeling  
+- Time-series prediction and analysis  
+- Applied machine learning systems  
+- Experimentation and research-driven development  
+
+---
+
+## A Bit About Me
+
+- 🐕 I have a black dog  
+- 🏊 I enjoy swimming and staying active  
+- 🏀 Big sports fan — always happy to talk about games and stats   
+- 📺 *Brooklyn Nine-Nine* is a favorite  
+- 🚗 Into cars  
+- 🎮 Enjoy Geometry Dash  
+
+---
+
+## Philosophy
+
+I believe **learning comes from doing** — building real systems, breaking them, and understanding why they work. I aim to create projects that are practical, well-reasoned, and easy to understand, even when the underlying ideas are complex.

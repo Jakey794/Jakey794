@@ -4,7 +4,14 @@ I'm Jacob, a machine learning engineer based in Toronto.
 
 I work primarily in machine learning and software engineering, with a strong focus on **financial time-series modeling**, **AI-driven systems**, and **end-to-end ML projects**. Most of my work is done using Python and PyTorch, with an emphasis on understanding systems deeply.
 
-This GitHub serves as a portfolio of **full ML / SWE projects**, financial AI experiments, group ML contributions, and side projects. Everything here is built intentionally
+This GitHub serves as a portfolio of **full ML / SWE projects**, financial AI experiments, group ML contributions, and side projects. Everything here is built intentionally.
+
+---
+
+## Currently working on:
+- **event-driven-trading-engine**
+- **market-event-platform**
+- **ml-decision-system**
 
 ---
 

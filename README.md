@@ -10,7 +10,7 @@ This GitHub serves as a portfolio of **full ML / SWE projects**, financial AI ex
 
 ## Currently working on:
 - **event-driven-trading-engine**
-- **market-event-platform**
+- **market-watch-api**
 - **ml-decision-system**
 
 ---

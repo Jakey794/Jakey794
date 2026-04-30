@@ -1,49 +1,37 @@
-# Hey there 👋
+# Hi, I'm Jacob 👋
 
-I'm Jacob, a machine learning engineer based in Toronto.
+I'm an Engineering Science student at the University of Toronto and Schulich Leader Scholar building projects in **machine learning**, **quantitative modeling**, and **software engineering**.
 
-I work primarily in machine learning and software engineering, with a strong focus on **financial time-series modeling**, **AI-driven systems**, and **end-to-end ML projects**. Most of my work is done using Python and PyTorch, with an emphasis on understanding systems deeply.
+My work focuses on practical systems: ML pipelines, data-driven applications, full-stack AI tools, and finance-oriented modeling.
 
-This GitHub serves as a portfolio of **full ML / SWE projects**, financial AI experiments, group ML contributions, and side projects. Everything here is built intentionally.
+## Featured Work
 
----
+### Incident Triage Copilot
+AI incident-response app that turns alerts, logs, deployment notes, service context, and metrics into structured severity, root-cause, next-action, and confidence outputs.
 
-## Currently working on:
-- **event-driven-trading-engine**
-- **market-watch-api**
-- **ml-decision-system**
+**Stack:** Next.js, FastAPI, Python, TypeScript, Groq, Vercel, Google Cloud Run  
+**Status:** Completed demo project
 
----
+### FormatClip
+Chrome Manifest V3 extension and FastAPI backend for saving snippets, formatting selected text, and reusing cleaned outputs with provider-swappable LLM support.
 
-## Tools & Tech
+**Stack:** React, TypeScript, Chrome MV3, FastAPI, Python, LLM APIs  
+**Status:** Completed demo project
 
-- **Python**, **PyTorch**
-- C (for performance-critical components)
-- Machine Learning & Financial Time-Series Modeling
-- End-to-end ML pipelines (research → implementation → evaluation)
+## Areas of Interest
 
----
+- Machine learning engineering
+- Quantitative finance and financial time-series modeling
+- Full-stack AI applications
+- Model evaluation, data pipelines, and deployment
 
-## Areas of Focus
+## Tools
 
-- Financial AI & quantitative modeling  
-- Time-series prediction and analysis  
-- Applied machine learning systems  
-- Experimentation and research-driven development  
+**Languages:** Python, TypeScript, JavaScript, C/C++, SQL, MATLAB  
+**ML/Data:** PyTorch, scikit-learn, XGBoost, NumPy, Pandas  
+**Software:** FastAPI, React, Next.js, Chrome Extensions, Git, Vercel, Cloud Run
 
----
+## Contact
 
-## A Bit About Me
-
-- 🐕 I have a black dog  
-- 🏊 I enjoy swimming and staying active  
-- 🏀 Big sports fan — always happy to talk about games and stats   
-- 📺 *Brooklyn Nine-Nine* is a favorite  
-- 🚗 Into cars  
-- 🎮 Enjoy Geometry Dash  
-
----
-
-## Philosophy
-
-I believe **learning comes from doing** — building real systems, breaking them, and understanding why they work. I aim to create projects that are practical, well-reasoned, and easy to understand, even when the underlying ideas are complex.
+- LinkedIn: linkedin.com/in/jacob-allan-256119328
+- Email: jacob.allan@mail.utoronto.ca

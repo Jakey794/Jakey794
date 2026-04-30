@@ -33,5 +33,5 @@ Chrome Manifest V3 extension and FastAPI backend for saving snippets, formatting
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/jacob-allan-256119328
+- LinkedIn: linkedin.com/in/jacob-allan-ml
 - Email: jacob.allan@mail.utoronto.ca
